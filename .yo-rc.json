@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ducanh.demo",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "4.14.0",
+    "baseName": "DemoGit",
+    "packageName": "com.ducanh.demo",
+    "packageFolder": "com/ducanh/demo",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mssql",
+    "prodDatabaseType": "mssql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "enableSwaggerCodegen": false,
+    "rememberMeKey": "5cbe9fec823df115b5e36301424324eea2b25937",
+    "clientFramework": "angular1",
+    "useSass": false,
+    "clientPackageManager": "yarn",
+    "applicationType": "monolith",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ]
+  }
+}
